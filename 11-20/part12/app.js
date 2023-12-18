@@ -2,7 +2,7 @@ var app = Vue.createApp({
   data() {
     return {
       aboutMe: {
-        name: "Mamunur Rashid"
+        name: "Tarek"
       },
       skills: [
         { name: "HTML", experience: 5 },
